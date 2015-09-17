@@ -1,0 +1,54 @@
+body{
+	background: radial-gradient(circle, #fff 20%, #ccc);
+	background-size: cover;
+}
+.container{
+  margin:auto;
+	padding: 10px;
+	padding-top: 0;
+}
+.bgr{
+	background-color: #EAF2F3;
+}
+.first-image{
+  background-image: url('images/productivity-with-office-interior-design-best-office-interior-design-1163x776.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 520px;
+  border-bottom: 30px solid #73C3C7;
+}
+.header{
+	float: right;
+  background-color: transparent;
+	color: black;
+	font-weight: bold;
+}
+.the-office{
+	position: absolute;
+	color: white;
+	font-weight: bold;
+}
+.title{
+	text-align: center;
+	color: #73C3C7;
+}
+.content{
+	background-color: white;
+	padding: 10px;
+}
+.number{
+ background-color: #73C3C7;
+ }
+.content >p {
+	font-family: 'Open Sans', sans-serif;
+  margin: 0 0 10px;
+}
+.about-client{
+	position: absolute;
+	z-index: -1;
+}
+.content img{
+	height: 90px;
+}
